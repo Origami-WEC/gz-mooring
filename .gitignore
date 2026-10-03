@@ -1,0 +1,5 @@
+# Build
+build/
+
+# Sistema
+.DS_Store
